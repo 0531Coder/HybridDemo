@@ -20,6 +20,8 @@
         <activity android:name=".RxjavaTheadControl"/>
         <activity android:name=".RxjavaOperator"/>
         <activity android:name=".ZipOperator"/>
+        <activity android:name=".RxjavaBackPressure"/>
+        <activity android:name=".RxjavaFlowable"/>
     </application>
 
 </manifest>
